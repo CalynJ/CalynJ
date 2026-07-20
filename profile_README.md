@@ -4,18 +4,21 @@ Risk and fraud analyst with 8+ years across B2B factoring, fintech, and financia
 
 Currently pursuing CFE certification, with ACAMS next.
 
-### 🔍 Featured Projects
+### Featured Projects
 
 - **[Risk Management Formulas](https://github.com/CalynJ/Risk-Management-Formulas)** — Core factoring risk formulas (yield, loan ratio, portfolio turnover, aging) implemented in SQL using CTEs and window functions, applied against a real 50,000-row invoice dataset.
 
 - **[Account Management Dashboard](https://github.com/CalynJ/Account-Management-Dashboard)** — Python pipeline automating client/debtor concentration reporting and aging analysis, built to replace a manual Excel-based review process. Includes real anonymized sample outputs alongside the code.
 
-- **[Invoice Trends Examples](https://github.com/CalynJ/Invoice-Trends-Examples)** — Pulling and analyzing invoice trend data for top debtors from an ERP API, with data cleaning and anonymization for reporting.
 
-### 🧰 Skills
 
-`SQL` · `Python` · `R` · `Power BI` · `Tableau` · `Databricks` · `Power Automate` · `OSINT & Document Forensics`
+### Skills
+Skills:
+Analytics: SQL, Python, R, Tableau, Power BI, Databricks 
+Risk & Credit Analysis: Credit risk assessment, portfolio exposure monitoring, fraud triage, escalation frameworks, loss prevention, behavioral risk signals 
+Automation: Power Automate, Excel VBA, Zapier, Agentic workflows 
+Systems: SAP, NetSuite, QuickBooks, CRM & ERP platforms   
 
-### 📫 Reach me
+### Reach me
 
-[LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN-HANDLE) · Denver, CO
+[LinkedIn](https://www.linkedin.com/in/calyn-taylor-0306b5248)· Denver, CO

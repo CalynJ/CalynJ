@@ -1,4 +1,4 @@
-### Hi, I'm Calyn 👋
+### Hi, I'm Calyn!
 
 Risk and fraud analyst with 8+ years across B2B factoring, fintech, and financial crimes investigation. I work at the intersection of data analysis and risk decision-making — using SQL, Python, and OSINT/document forensics to catch what raw numbers alone would miss.
 

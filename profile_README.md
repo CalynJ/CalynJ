@@ -1,15 +1,16 @@
 ### Hi, I'm Calyn!
 
-Risk and fraud analyst with 8+ years across B2B factoring, fintech, and financial crimes investigation. I work at the intersection of data analysis and risk decision-making — using SQL, Python, and OSINT/document forensics to catch what raw numbers alone would miss.
+Risk and fraud analyst with 8+ years across B2B factoring, fintech, and financial crimes investigation. I work at the intersection of data analysis and risk decision-making by using SQL, Python, and OSINT/document forensics to catch what raw numbers alone would miss.
 
 Currently pursuing CFE certification, with ACAMS next.
 
 ### Featured Projects
 
-- **[Risk Management Formulas](https://github.com/CalynJ/Risk-Management-Formulas)** — Core factoring risk formulas (yield, loan ratio, portfolio turnover, aging) implemented in SQL using CTEs and window functions, applied against a real 50,000-row invoice dataset.
+- **[Risk Management Formulas](https://github.com/CalynJ/Risk-Management-Formulas)** - Core factoring risk formulas (yield, loan ratio, portfolio turnover, aging) implemented in SQL using CTEs and window functions, applied against a real 50,000-row invoice dataset.
 
-- **[Account Management Dashboard](https://github.com/CalynJ/Account-Management-Dashboard)** — Python pipeline automating client/debtor concentration reporting and aging analysis, built to replace a manual Excel-based review process. Includes real anonymized sample outputs alongside the code.
+- **[Account Management Dashboard](https://github.com/CalynJ/Account-Management-Dashboard)** - Python pipeline automating client/debtor concentration reporting and aging analysis, built to replace a manual Excel-based review process. Includes real anonymized sample outputs alongside the code.
 - **[dbt Invoice workflow](https://github.com/CalynJ/dbt-invoice)** - A dbt project that transforms raw invoice-level accounts receivable data into aging classifications and customer concentration analysis, using the same real 50,000-row invoice dataset used in my Risk Management Formulas SQL repo.
+- **[bioremedation decay](https://github.com/CalynJ/Bioremediation-of-produced-water)** - R analysis of produced water volumes across three oil and gas wells, using decline curve modeling to forecast future treatment loads for bioremediation planning.
 
 
 

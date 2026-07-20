@@ -9,6 +9,7 @@ Currently pursuing CFE certification, with ACAMS next.
 - **[Risk Management Formulas](https://github.com/CalynJ/Risk-Management-Formulas)** — Core factoring risk formulas (yield, loan ratio, portfolio turnover, aging) implemented in SQL using CTEs and window functions, applied against a real 50,000-row invoice dataset.
 
 - **[Account Management Dashboard](https://github.com/CalynJ/Account-Management-Dashboard)** — Python pipeline automating client/debtor concentration reporting and aging analysis, built to replace a manual Excel-based review process. Includes real anonymized sample outputs alongside the code.
+- **[dbt Invoice workflow](https://github.com/CalynJ/dbt-invoice)** - A dbt project that transforms raw invoice-level accounts receivable data into aging classifications and customer concentration analysis, using the same real 50,000-row invoice dataset used in my Risk Management Formulas SQL repo.
 
 
 

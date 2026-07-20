@@ -15,7 +15,6 @@ Currently pursuing CFE certification, with ACAMS next.
 
 
 ### Skills
-Skills:
 Analytics: SQL, Python, R, Tableau, Power BI, Databricks 
 Risk & Credit Analysis: Credit risk assessment, portfolio exposure monitoring, fraud triage, escalation frameworks, loss prevention, behavioral risk signals 
 Automation: Power Automate, Excel VBA, Zapier, Agentic workflows 
